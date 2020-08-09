@@ -1,0 +1,14 @@
+Package: my.demo.package
+Title: Demo Package for Opencpu
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Ghislain",
+           family = "Gueye",
+           role = c("aut", "cre"),
+           email = "nonoghislain@gmail.com")
+Description: I want to learn how to work with opencpu so I created this package.
+License: file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
