@@ -1,5 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
 
+  ocpu.seturl()
+
   let btn = document.querySelector("button")
 
 
